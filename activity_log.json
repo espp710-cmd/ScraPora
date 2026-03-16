@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "event": "GUEST_LOGIN",
+    "username": "tamu",
+    "detail": "Akses sebagai tamu",
+    "ip": "127.0.0.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)",
+    "time": "2026-03-16 12:45:53",
+    "timestamp": "2026-03-16T12:45:53.660403"
+  },
+  {
+    "id": 2,
+    "event": "ADMIN_LOGIN",
+    "username": "admin",
+    "detail": "Login admin berhasil",
+    "ip": "127.0.0.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)",
+    "time": "2026-03-16 12:46:10",
+    "timestamp": "2026-03-16T12:46:10.415922"
+  },
+  {
+    "id": 3,
+    "event": "ADMIN_CONFIG",
+    "username": "admin",
+    "detail": "API key diperbarui",
+    "ip": "127.0.0.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)",
+    "time": "2026-03-16 12:48:14",
+    "timestamp": "2026-03-16T12:48:14.821986"
+  },
+  {
+    "id": 4,
+    "event": "SEARCH",
+    "username": "tamu",
+    "detail": "Cari: \"gerry butter cookies\" | kondisi:all | mp:Tokopedia,Shopee,Bukalapak,Lazada,Blibli",
+    "ip": "127.0.0.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)",
+    "time": "2026-03-16 12:49:21",
+    "timestamp": "2026-03-16T12:49:21.081093"
+  },
+  {
+    "id": 5,
+    "event": "FEEDBACK",
+    "username": "tamu",
+    "detail": "Kategori:kesan | Rating:5",
+    "ip": "127.0.0.1",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)",
+    "time": "2026-03-16 12:53:07",
+    "timestamp": "2026-03-16T12:53:07.110248"
+  }
+]
